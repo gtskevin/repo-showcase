@@ -156,3 +156,19 @@ For additional badges, wrap in a collapsible section to keep the Hero clean:
 - Hero: `social` for stars + `flat` for everything else
 - Feature badges: `for-the-badge` for key features (max 3)
 - Collapsible: `flat` for all
+
+## ⚠️ Known Issue: Star History SVG
+
+**Do NOT use `api.star-history.com/svg` in GitHub READMEs.** The returned SVG contains:
+- Embedded base64 fonts (woff)
+- External image references (avatar URLs)
+- Complex CSS animations
+
+GitHub's camo image proxy cannot render these correctly, resulting in broken images.
+
+**Working alternative:**
+```markdown
+[![GitHub Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=for-the-badge&logo=github&color=f59e0b&label=%E2%AD%90%20Star%20History)](https://star-history.com/#{owner}/{repo}&Date)
+```
+
+This uses shields.io for the badge (always renders) and links to the interactive star-history.com chart.

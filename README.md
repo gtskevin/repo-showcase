@@ -254,7 +254,13 @@ Every contribution matters — from typo fixes to new repo type templates.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gtskevin/repo-showcase&type=Date)](https://star-history.com/#gtskevin/repo-showcase&Date)
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/repo-showcase?style=for-the-badge&logo=github&color=f59e0b&label=%E2%AD%90%20Star%20History)](https://star-history.com/#gtskevin/repo-showcase&Date)
+
+**[↑ Click to view interactive Star History chart →](https://star-history.com/#gtskevin/repo-showcase&Date)**
+
+</div>
 
 ---
 
