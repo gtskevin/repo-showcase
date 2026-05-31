@@ -143,7 +143,7 @@ def check_readme(content: str, repo_path: str = ".") -> list:
                      f"Found {hero_badge_count} badges in hero area, max recommended is 7"))
 
     # Check: No coming soon
-    has_coming_soon = bool(re.search(r"(?i)(coming soon|TODO|placeholder|TBD)", content))
+    has_coming_soon = bool(re.search(r"(?i)(\bcoming soon\b|\bTODO\b|\bplaceholder\b|\bTBD\b)", content))
     results.append(("no_coming_soon", not has_coming_soon,
                      "Remove 'coming soon' / TODO placeholders"))
 
