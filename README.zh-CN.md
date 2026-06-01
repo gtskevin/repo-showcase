@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gtskevin/repo-showcase/main/.github/assets/banner.svg" width="600" alt="Repo Showcase — 把你的 GitHub 仓库变成高颜值展示页" />
+<img src="https://raw.githubusercontent.com/gtskevin/readme-craft/main/.github/assets/banner.svg" width="600" alt="Repo Showcase — 把你的 GitHub 仓库变成高颜值展示页" />
 
 <br/>
 
@@ -8,11 +8,11 @@
 
 <br/>
 
-[![Codex Skill](https://img.shields.io/badge/🔧_Codex-Skill-blue?logo=openai&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/repo-showcase#-快速开始)
-[![Claude Code](https://img.shields.io/badge/🤖_Claude_Code-supported-d97706?logo=anthropic&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/repo-showcase#-快速开始)
-[![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/gtskevin/repo-showcase/blob/main/LICENSE)
+[![Codex Skill](https://img.shields.io/badge/🔧_Codex-Skill-blue?logo=openai&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/readme-craft#-快速开始)
+[![Claude Code](https://img.shields.io/badge/🤖_Claude_Code-supported-d97706?logo=anthropic&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/readme-craft#-快速开始)
+[![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/gtskevin/readme-craft/blob/main/LICENSE)
 
-[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/repo-showcase?style=social&logo=github)](https://github.com/gtskevin/repo-showcase/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/readme-craft?style=social&logo=github)](https://github.com/gtskevin/readme-craft/stargazers)
 
 <p>
   <a href="README.md">🇺🇸 English</a> · <a href="README.zh-CN.md">🇨🇳 简体中文</a>
@@ -80,7 +80,7 @@
 **方式 A — 一键安装（推荐）：**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/gtskevin/repo-showcase/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/gtskevin/readme-craft/main/install.sh | bash
 ```
 
 自动检测 Codex 和/或 Claude Code，安装到正确位置。
@@ -88,13 +88,13 @@ curl -fsSL https://raw.githubusercontent.com/gtskevin/repo-showcase/main/install
 **方式 B — Codex 内直接安装：**
 
 ```
-Install skill from gtskevin/repo-showcase
+Install skill from gtskevin/readme-craft
 ```
 
 **方式 C — 手动安装：**
 
 ```bash
-git clone https://github.com/gtskevin/repo-showcase.git
+git clone https://github.com/gtskevin/readme-craft.git
 mkdir -p ~/.codex/skills/repo-showcase
 cp -r repo-showcase/* ~/.codex/skills/repo-showcase/
 rm -rf repo-showcase
@@ -241,9 +241,9 @@ Codex 和 Claude Code 都支持！任何支持 SKILL.md 的 AI Agent 都可以�
 
 ## 🤝 参与贡献
 
-- 🐛 [报告 Bug](https://github.com/gtskevin/repo-showcase/issues/new?template=bug_report.md)
-- 💡 [功能建议](https://github.com/gtskevin/repo-showcase/issues/new?template=feature_request.md)
-- 🔧 [Good First Issues](https://github.com/gtskevin/repo-showcase/labels/good%20first%20issue)
+- 🐛 [报告 Bug](https://github.com/gtskevin/readme-craft/issues/new?template=bug_report.md)
+- 💡 [功能建议](https://github.com/gtskevin/readme-craft/issues/new?template=feature_request.md)
+- 🔧 [Good First Issues](https://github.com/gtskevin/readme-craft/labels/good%20first%20issue)
 
 ---
 
@@ -251,9 +251,9 @@ Codex 和 Claude Code 都支持！任何支持 SKILL.md 的 AI Agent 都可以�
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/repo-showcase?style=for-the-badge&logo=github&color=f59e0b&label=%E2%AD%90%20Star%20History)](https://star-history.com/#gtskevin/repo-showcase&Date)
+[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/readme-craft?style=for-the-badge&logo=github&color=f59e0b&label=%E2%AD%90%20Star%20History)](https://star-history.com/#gtskevin/readme-craft&Date)
 
-**[↑ Click to view interactive Star History chart →](https://star-history.com/#gtskevin/repo-showcase&Date)**
+**[↑ Click to view interactive Star History chart →](https://star-history.com/#gtskevin/readme-craft&Date)**
 
 </div>
 

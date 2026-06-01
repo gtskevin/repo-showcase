@@ -2,12 +2,12 @@
 # Install repo-showcase skill for Codex and/or Claude Code
 set -e
 
-REPO_URL="https://github.com/gtskevin/repo-showcase"
-SKILL_NAME="repo-showcase"
+REPO_URL="https://github.com/gtskevin/readme-craft"
+SKILL_NAME="readme-craft"
 CODEX_SKILL_DIR="${CODEX_HOME:-$HOME/.codex}/skills/$SKILL_NAME"
 CLAUDE_SKILL_DIR="$HOME/.claude/skills/$SKILL_NAME"
 
-echo "✨ Installing repo-showcase skill..."
+echo "✨ Installing readme-craft skill..."
 
 install_to() {
     local dest="$1"

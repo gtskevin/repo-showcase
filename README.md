@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gtskevin/repo-showcase/main/.github/assets/banner.svg" width="600" alt="Repo Showcase — Transform any GitHub repo into a star-attracting showcase" />
+<img src="https://raw.githubusercontent.com/gtskevin/readme-craft/main/.github/assets/banner.svg" width="600" alt="Repo Showcase — Transform any GitHub repo into a star-attracting showcase" />
 
 <br/>
 
@@ -8,12 +8,12 @@
 
 <br/>
 
-[![Codex Skill](https://img.shields.io/badge/🔧_Codex-Skill-blue?logo=openai&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/repo-showcase#-quick-start)
-[![Claude Code](https://img.shields.io/badge/🤖_Claude_Code-supported-d97706?logo=anthropic&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/repo-showcase#-quick-start)
-[![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/gtskevin/repo-showcase/blob/main/LICENSE)
+[![Codex Skill](https://img.shields.io/badge/🔧_Codex-Skill-blue?logo=openai&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/readme-craft#-quick-start)
+[![Claude Code](https://img.shields.io/badge/🤖_Claude_Code-supported-d97706?logo=anthropic&logoColor=white&style=for-the-badge)](https://github.com/gtskevin/readme-craft#-quick-start)
+[![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](https://github.com/gtskevin/readme-craft/blob/main/LICENSE)
 
-[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/repo-showcase?style=social&logo=github)](https://github.com/gtskevin/repo-showcase/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/gtskevin/repo-showcase)](https://github.com/gtskevin/repo-showcase/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/readme-craft?style=social&logo=github)](https://github.com/gtskevin/readme-craft/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/gtskevin/readme-craft)](https://github.com/gtskevin/readme-craft/commits/main)
 
 <p>
   <a href="README.md">🇺🇸 English</a> · <a href="README.zh-CN.md">🇨🇳 简体中文</a>
@@ -86,7 +86,7 @@ A Claude Code Skill that reviews...
 **Option A — One-line install (recommended):**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/gtskevin/repo-showcase/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/gtskevin/readme-craft/main/install.sh | bash
 ```
 
 Auto-detects Codex and/or Claude Code and installs to the right location.
@@ -94,13 +94,13 @@ Auto-detects Codex and/or Claude Code and installs to the right location.
 **Option B — Codex skill installer (if in Codex):**
 
 ```
-Install skill from gtskevin/repo-showcase
+Install skill from gtskevin/readme-craft
 ```
 
 **Option C — Manual install:**
 
 ```bash
-git clone https://github.com/gtskevin/repo-showcase.git
+git clone https://github.com/gtskevin/readme-craft.git
 mkdir -p ~/.codex/skills/repo-showcase
 cp -r repo-showcase/* ~/.codex/skills/repo-showcase/
 rm -rf repo-showcase
@@ -284,9 +284,9 @@ EN + ZH built-in. Extensible to other languages via templates.
 
 Every contribution matters — from typo fixes to new repo type templates.
 
-- 🐛 [Report a bug](https://github.com/gtskevin/repo-showcase/issues/new?template=bug_report.md)
-- 💡 [Request a feature](https://github.com/gtskevin/repo-showcase/issues/new?template=feature_request.md)
-- 🔧 [Good first issues](https://github.com/gtskevin/repo-showcase/labels/good%20first%20issue)
+- 🐛 [Report a bug](https://github.com/gtskevin/readme-craft/issues/new?template=bug_report.md)
+- 💡 [Request a feature](https://github.com/gtskevin/readme-craft/issues/new?template=feature_request.md)
+- 🔧 [Good first issues](https://github.com/gtskevin/readme-craft/labels/good%20first%20issue)
 
 ---
 
@@ -294,9 +294,9 @@ Every contribution matters — from typo fixes to new repo type templates.
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/repo-showcase?style=for-the-badge&logo=github&color=f59e0b&label=%E2%AD%90%20Star%20History)](https://star-history.com/#gtskevin/repo-showcase&Date)
+[![GitHub Stars](https://img.shields.io/github/stars/gtskevin/readme-craft?style=for-the-badge&logo=github&color=f59e0b&label=%E2%AD%90%20Star%20History)](https://star-history.com/#gtskevin/readme-craft&Date)
 
-**[↑ Click to view interactive Star History chart →](https://star-history.com/#gtskevin/repo-showcase&Date)**
+**[↑ Click to view interactive Star History chart →](https://star-history.com/#gtskevin/readme-craft&Date)**
 
 </div>
 

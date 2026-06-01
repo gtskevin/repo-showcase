@@ -12,7 +12,7 @@ description: >
   CLI tools, and general open source projects.
 ---
 
-# Repo Showcase — GitHub Repository Presentation Optimizer
+# Readme Craft — GitHub Repository Presentation Optimizer
 
 Transform any repository into a professional, star-attracting showcase.
 
